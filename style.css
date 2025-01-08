@@ -461,8 +461,9 @@ left: -10rem;}
 
 
 .btn-1{position: relative;
-left: 70rem;
+left: 60rem;
 top: 2rem;
+font-weight: bold;
 border: solid 1px #6852ed;
 background-color: transparent;
 font-family: "Poppins", sans-serif;
@@ -594,8 +595,8 @@ cursor: pointer;}
 .question{display:flex;
 position: relative;
 top: 14rem;
-left: 60rem;
-width: 48%;
+left: 30rem;
+width: 70%;
 
 }
 
@@ -606,7 +607,7 @@ width: 48%;
     text-align: left;}
 
     .qblock_link{ position: relative;
-    left: -17.5rem;}
+    left: -19.5rem;}
 
 
 
@@ -625,7 +626,7 @@ text-align: center;}
 
 .info{position: absolute;
 top: 10%;
-left: 40rem;
+left: 20rem;
 text-align: left;
 color: #fff;}
 
@@ -660,7 +661,7 @@ margin-bottom: 2rem;}
 gap: 20px;
 position: relative;
 top: -15rem;
-left: 80rem;
+left: 60rem;
 }
 
 .qq{position: relative;
